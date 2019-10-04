@@ -44,6 +44,9 @@ if ( ! class_exists( '\WP_Bootstrap_Blocks\Row\Row_Block_Type', false ) ) :
 			'verticalAlignment' => array(
 				'type' => 'string',
 			),
+			'align' => array(
+				'type' => 'string'
+			)
 		);
 
 		/**
@@ -56,6 +59,7 @@ if ( ! class_exists( '\WP_Bootstrap_Blocks\Row\Row_Block_Type', false ) ) :
 			'noGutters' => false,
 			'alignment' => '',
 			'verticalAlignment' => '',
+			'align' => 'full'
 		);
 	}
 

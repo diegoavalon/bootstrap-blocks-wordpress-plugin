@@ -180,7 +180,7 @@ class WP_Bootstrap_Blocks {
 			array(
 				array(
 					'slug' => 'wp-bootstrap-blocks',
-					'title' => __( 'Bootstrap Blocks', 'wp-bootstrap-blocks' ),
+					'title' => __( 'eHealth Pillar Layout Blocks', 'wp-bootstrap-blocks' ),
 				),
 			)
 		);

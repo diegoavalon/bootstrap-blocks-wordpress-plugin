@@ -1,10 +1,7 @@
 <?php
 /**
- * Plugin Name: Bootstrap Blocks
- * Plugin URI: https://github.com/liip/bootstrap-blocks-wordpress-plugin
- * Description: Bootstrap 4 Gutenberg Blocks for WordPress.
- * Author: Liip AG
- * Author URI: https://liip.ch
+ * Plugin Name: eHealth Pillar Layout Blocks
+ * Description: Bootstrap 4 Gutenberg Layout Blocks for WordPress.
  * Version: 1.2.0
  * License: GPL2+
  * License URI: https://www.gnu.org/licenses/gpl-2.0.txt

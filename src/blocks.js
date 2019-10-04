@@ -9,8 +9,8 @@
  * Webpack is compiling as the input file.
  */
 
-import './custom-category-icon';
-import './container/block.js';
-import './column/block.js';
-import './row/block.js';
-import './button/block.js';
+import "./custom-category-icon";
+import "./container/block.js";
+import "./column/block.js";
+import "./row/block.js";
+// import './button/block.js';
