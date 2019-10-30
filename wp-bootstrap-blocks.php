@@ -2,7 +2,7 @@
 /**
  * Plugin Name: eHealth Pillar Layout Blocks
  * Description: Bootstrap 4 Gutenberg Layout Blocks for WordPress.
- * Version: 1.2.0
+ * Version: 1.2.1
  * License: GPL2+
  * License URI: https://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain: wp-bootstrap-blocks
